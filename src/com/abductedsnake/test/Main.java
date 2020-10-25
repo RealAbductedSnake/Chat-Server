@@ -3,6 +3,7 @@ package com.abductedsnake.test;
 public class Main {
 
     public static void main(String[] args) {
-1esh5
+        System.out.println("fuck you");
+//1esh5
     }
 }
